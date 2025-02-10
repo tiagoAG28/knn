@@ -199,7 +199,7 @@ def main():
     ax.scatter(
         new_points[:, 0],
         new_points[:, 1],
-        c="black",
+        c="red",
         s=100,
         marker="x",
         label="Novos Pontos",
