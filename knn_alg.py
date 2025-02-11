@@ -331,7 +331,3 @@ def main():
 # Executa a função principal quando o script é executado via Streamlit
 if __name__ == "__main__":
     main()
-
-
-if __name__ == "__main__":
-    main()
